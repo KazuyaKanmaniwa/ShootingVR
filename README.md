@@ -5,4 +5,4 @@ OculusGo用のシューティングゲームです
 ** ToonBat(MESHTINT STUDIO)
 ** STYLIZED-FantasyTown(POLYART3D)
 ** Lowpoly weapon pack(SIMBERGI)
-**OculusIntegration(OCULUS)
+** OculusIntegration(OCULUS)
