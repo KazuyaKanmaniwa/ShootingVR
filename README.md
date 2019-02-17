@@ -1,0 +1,2 @@
+# ShootingVR
+OculusGo用のシューティングゲームです
